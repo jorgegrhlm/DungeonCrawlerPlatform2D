@@ -25,6 +25,7 @@ Videojuego de plataformas 2D estilo *dungeon crawler* con estética pixel art, d
 
 ## Estructura del proyecto
 
+```
 Assets/
 ├── Audio/          # Música y efectos de sonido
 ├── Scenes/         # Niveles, menús, StoryScene, GameOver, Victory
@@ -32,6 +33,7 @@ Assets/
 │   └── SaveSystem/ # Sistema de guardado/carga
 ├── Prefabs/        # Enemigos, puertas, llaves
 └── Settings/       # Configuración de render (URP)
+```
 
 ## Requisitos
 
